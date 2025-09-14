@@ -4,6 +4,6 @@
 > enemy
 > bullet
 #### i also add sound effect to make this project more fun!
-#### and ofc there's two confition where u win or even lose this game 
+#### and ofc there's two condition where u win or even lose this game 
 #### hope u enjoy<3
 
